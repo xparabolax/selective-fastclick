@@ -4,7 +4,7 @@
  * External dependencies
  */
 
-var FastClick = require('fastclick').FastClick;
+var FastClick = require('fastclick');
 var FtDomDelegate = require('dom-delegate').Delegate;
 
 /**
